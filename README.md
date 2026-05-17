@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey, I'm JSL
 
-<!--
-**Elladriel80/Elladriel80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solo dev building **[Aratea](https://github.com/Elladriel80/Aratea)** — a DAO trading Kalshi weather prediction markets to fund on-chain parametric climate coverage.
 
-Here are some ideas to get you started:
+**Phase 1 in public.** Paper trades only. The model loses to Kalshi sometimes — receipts in [`predictor/runs/`](https://github.com/Elladriel80/Aratea/tree/main/predictor/runs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### How I pay contributors
+
+Fact-only from Git. AI valuation in BTC via public rubric. 7-day challenge window + top-X holder panel.
+
+→ [How payment works](https://github.com/Elladriel80/Aratea/blob/main/docs/value_engine.md)
+→ [5 good-first-issues to grab](https://github.com/Elladriel80/Aratea/blob/main/docs/contributor-starter-issues.md)
+
+DMs open on X: [@jsl_aratea](https://x.com/jsl_augure) (handle migrating from @jsl_augure)
